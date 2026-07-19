@@ -1,0 +1,6 @@
+{
+  "shops": [
+    { "id": "shop_berlin", "name": "Trattoria Mitte", "timezone": "Europe/Berlin", "currency": "EUR" },
+    { "id": "shop_chicago", "name": "Windy City Diner", "timezone": "America/Chicago", "currency": "USD" }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_note": "Use these to sanity-check your implementation. Pay attention to the timestamps.",
+  "orders": [
+    {
+      "shop_id": "shop_chicago",
+      "items": [{ "sku": "PIZZA_M", "qty": 1 }, { "sku": "FRIES", "qty": 3 }],
+      "tip": "2.00",
+      "discount": "0.00",
+      "payment_type": "CARD",
+      "placed_at": "2026-07-05T23:30:00-05:00"
+    },
+    {
+      "shop_id": "shop_chicago",
+      "items": [{ "sku": "BURGER_C", "qty": 2 }, { "sku": "SODA", "qty": 10 }],
+      "tip": "0.00",
+      "discount": "1.00",
+      "payment_type": "CASH",
+      "placed_at": "2026-07-06T00:15:00-05:00"
+    },
+    {
+      "shop_id": "shop_berlin",
+      "items": [{ "sku": "WINGS_6", "qty": 1 }, { "sku": "TIRAMISU", "qty": 2 }],
+      "tip": "1.11",
+      "discount": "0.00",
+      "payment_type": "CARD",
+      "placed_at": "2026-10-25T02:30:00+02:00"
+    },
+    {
+      "shop_id": "shop_berlin",
+      "items": [{ "sku": "SALAD_G", "qty": 1 }, { "sku": "ESPRESSO", "qty": 2 }],
+      "tip": "0.99",
+      "discount": "0.50",
+      "payment_type": "CARD",
+      "placed_at": "2026-10-25T02:30:00+01:00"
+    },
+    {
+      "shop_id": "shop_chicago",
+      "items": [{ "sku": "FRIES", "qty": 1 }, { "sku": "SODA", "qty": 1 }],
+      "tip": "0.00",
+      "discount": "0.00",
+      "payment_type": "CARD",
+      "placed_at": "2026-11-01T01:30:00-05:00"
+    }
+  ]
+}

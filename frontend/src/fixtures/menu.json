@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "sku": "PIZZA_M", "name": "Pizza Margherita", "price": "12.99" },
+    { "sku": "BURGER_C", "name": "Classic Burger", "price": "9.49" },
+    { "sku": "FRIES", "name": "Fries", "price": "3.33" },
+    { "sku": "SODA", "name": "Soda", "price": "0.10" },
+    { "sku": "WINGS_6", "name": "Wings (6pc)", "price": "7.77" },
+    { "sku": "SALAD_G", "name": "Greek Salad", "price": "10.01" },
+    { "sku": "ESPRESSO", "name": "Espresso", "price": "1.99" },
+    { "sku": "TIRAMISU", "name": "Tiramisu", "price": "6.66" }
+  ]
+}
